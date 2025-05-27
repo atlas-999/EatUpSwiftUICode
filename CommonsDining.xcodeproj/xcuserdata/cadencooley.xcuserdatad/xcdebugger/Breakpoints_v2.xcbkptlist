@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1F7A222C-64F7-4F7A-BAE4-B03B7F76896C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F029EA0-39EA-48A7-9846-47C29B7B7491"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CommonsDining/Managers/UserManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "UserManager"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "2F029EA0-39EA-48A7-9846-47C29B7B7491 - eaca8c550422cfed"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CommonsDining.UserManager.deinit"
+                  moduleName = "CommonsDining"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cadencooley/Documents/Programming/swiftdev/CommonsDining/CommonsDining/Managers/UserManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "2F029EA0-39EA-48A7-9846-47C29B7B7491 - 4adac2093dbc1766"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CommonsDining.UserManager.__deallocating_deinit"
+                  moduleName = "CommonsDining"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cadencooley/Documents/Programming/swiftdev/CommonsDining/CommonsDining/Managers/UserManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
