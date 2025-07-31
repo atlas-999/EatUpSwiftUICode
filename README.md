@@ -1,0 +1,1 @@
+The Swift UI frontend that I built for Eat Up: TXST. MVVM architecture, with managers for interacting with Firebase. Includes extensions, custom data models, custom components, and other utilities. Firebase cloud storage, notification handling, combine, and more. Very proud of this!
